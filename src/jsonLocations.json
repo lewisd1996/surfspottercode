@@ -1,0 +1,191 @@
+[
+    {
+        "county_name": "Del Norte",
+        "latitude": 41.869383569541917,
+        "longitude": -124.21444724840021,
+        "spot_id": 652,
+        "spot_name": "Smith River Kellog Road"
+    },
+    {
+        "county_name": "Del Norte",
+        "latitude": 41.786844846578227,
+        "longitude": -124.25521494045159,
+        "spot_id": 653,
+        "spot_name": "Point St George"
+    },
+    {
+        "county_name": "Del Norte",
+        "latitude": 41.76951799906643,
+        "longitude": -124.23922049300231,
+        "spot_id": 654,
+        "spot_name": "Garths Reef"
+    },
+    {
+        "county_name": "Del Norte",
+        "latitude": 41.740161410941631,
+        "longitude": -124.1816271141612,
+        "spot_id": 655,
+        "spot_name": "Whaler Island"
+    },
+    {
+        "county_name": "Del Norte",
+        "latitude": 41.737888961614509,
+        "longitude": -124.168107730491,
+        "spot_id": 656,
+        "spot_name": "South Beach"
+    },
+    {
+        "county_name": "Del Norte",
+        "latitude": 41.708637529953478,
+        "longitude": -124.1455957740673,
+        "spot_id": 657,
+        "spot_name": "Enderts Beach"
+    },
+    {
+        "county_name": "Del Norte",
+        "latitude": 41.60409233409618,
+        "longitude": -124.10230189239419,
+        "spot_id": 658,
+        "spot_name": "Wilson Creek"
+    },
+    {
+        "county_name": "Del Norte",
+        "latitude": 41.54703458341988,
+        "longitude": -124.0857421824345,
+        "spot_id": 659,
+        "spot_name": "Klamath Rivermouth"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 41.383903561731039,
+        "longitude": -124.0727754950131,
+        "spot_id": 660,
+        "spot_name": "Gold Bluffs Beach"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 41.271494812805869,
+        "longitude": -124.0968267672407,
+        "spot_id": 661,
+        "spot_name": "Freshwater Lagoon"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 41.13248951472039,
+        "longitude": -124.1623052534996,
+        "spot_id": 662,
+        "spot_name": "Patricks Point"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 41.059905550287652,
+        "longitude": -124.1494131650617,
+        "spot_id": 663,
+        "spot_name": "Trinidad State Beach"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 41.047927367619323,
+        "longitude": -124.1263838291088,
+        "spot_id": 664,
+        "spot_name": "Camel Rock"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 41.040417847257139,
+        "longitude": -124.1212780701598,
+        "spot_id": 665,
+        "spot_name": "Moonstone"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 41.029002951747778,
+        "longitude": -124.1170768809114,
+        "spot_id": 666,
+        "spot_name": "Little River State Beach"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 40.965433361099542,
+        "longitude": -124.1282835019915,
+        "spot_id": 667,
+        "spot_name": "Mad River Beach"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 40.799917542801651,
+        "longitude": -124.2085307445489,
+        "spot_id": 668,
+        "spot_name": "Samoa Peninsula"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 40.773131567667328,
+        "longitude": -124.225849337131,
+        "spot_id": 669,
+        "spot_name": "Bunkers"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 40.769135830200383,
+        "longitude": -124.23712250918381,
+        "spot_id": 670,
+        "spot_name": "North Jetty"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 40.769063606061451,
+        "longitude": -124.24145480139541,
+        "spot_id": 671,
+        "spot_name": "Harbor Entrance"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 40.764741274116084,
+        "longitude": -124.2457464202994,
+        "spot_id": 672,
+        "spot_name": "South Jetty"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 40.600934539028657,
+        "longitude": -124.337076848425,
+        "spot_id": 673,
+        "spot_name": "Centerville Beach"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 40.353331698111582,
+        "longitude": -124.36303982254771,
+        "spot_id": 674,
+        "spot_name": "Cape Mendocino"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 40.024699034097907,
+        "longitude": -124.07575471643121,
+        "spot_id": 675,
+        "spot_name": "Deadmans"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 40.02116732237296,
+        "longitude": -124.0720505571327,
+        "spot_id": 676,
+        "spot_name": "Third Reef"
+    },
+    {
+        "county_name": "Humboldt",
+        "latitude": 40.021367730250077,
+        "longitude": -124.06628712314129,
+        "spot_id": 677,
+        "spot_name": "No Pass"
+    },
+    {
+        "county_name": "Mendocino",
+        "latitude": 39.659122945040963,
+        "longitude": -123.78574189907459,
+        "spot_id": 678,
+        "spot_name": "DeHaven Creek"
+    }
+]
