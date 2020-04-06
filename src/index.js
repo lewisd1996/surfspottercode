@@ -1,16 +1,13 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-import 'leaflet/dist/leaflet.css';
-
-var beginner = false
-var intermediate = false
-var expert = false
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
+import "leaflet/dist/leaflet.css";
+import Provider from "./Provider";
 
 ReactDOM.render(
-  <React.StrictMode>
+  <Provider>
     <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+  </Provider>,
+  document.getElementById("root")
 );
 

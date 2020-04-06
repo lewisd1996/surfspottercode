@@ -1,7 +1,7 @@
 import React from 'react';
-import NavBar from './components/NavBar.js';
-import Dashboard from './components/Dashboard.js';
-import SurfMap from './components/SurfMap.js'
+import NavBar from './components/NavBar.jsx';
+import Dashboard from './components/Dashboard.jsx';
+import SurfMap from './components/SurfMap.jsx'
 
 function App() {
   return (
